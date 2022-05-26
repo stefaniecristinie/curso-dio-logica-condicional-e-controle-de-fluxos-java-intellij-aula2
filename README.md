@@ -1,1 +1,1 @@
-# curso-dio-logica-condicional-e-controle-de-fluxos-java-intellij-aula2
+# Curso DIO: Lógica Condicional e Controle de Fluxos em Java - IntelliJ - Aula 2
